@@ -9,3 +9,7 @@ Independent site and advisory for quantitative finance careers, MBA admissions a
 - [Coding interview patterns](https://github.com/geodesic-partners/coding-interview-patterns)
 - [ML interview problems in NumPy](https://github.com/geodesic-partners/ml-interview-problems)
 - [Quant interview resources](https://github.com/geodesic-partners/awesome-quant-interviews)
+- [YouTube](https://www.youtube.com/@AcademicQuant)
+- [dev.to](https://dev.to/academicquant)
+- [Hugging Face](https://huggingface.co/academicquant)
+- [Pinterest](https://www.pinterest.com/academicquant/)
