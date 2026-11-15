@@ -9,3 +9,4 @@ Independent site and advisory for quantitative finance careers, MBA admissions a
 - [dev.to](https://dev.to/academicquant)
 - [Hugging Face](https://huggingface.co/academicquant)
 - [Pinterest](https://www.pinterest.com/academicquant/)
+- [Instagram](https://www.instagram.com/academicquant/)
